@@ -1,1 +1,3 @@
 # Shap-Implementation
+SHAP is a module for making a prediction by some machine learning models interpretable, where we can see which feature variables have an impact on the predicted values. In other words, it can calculate SHAP values, i.e., how much the predicted variable would be increased or decreased by a certain feature variable. It can basically audit the predictions or the results of the models by removing one variable or changing one variable and will see how it would change the predictions. It has most interesting plots like waterfall plots, force plots, variable importance plots, and so on. Which I found really interesting and helpful as well.
+I implemented shap module on bosten housing dataset
